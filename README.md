@@ -1,6 +1,9 @@
 # Amstrad CPC External CPU Card
 An external Z80 Card for Amstrad CPC Computers
 
+![Board Front Image](https://raw.githubusercontent.com/revaldinho/cpc-cpucard/master/doc/photo1.jpg)
+
+
 This is a card for test and development work on the Amstrad CPC computer. The card fits any expansion backplane and relocates the CPC's processor into an external Zero Insertion Force (ZIF) socket. 
 
 The main purpose of the board is to use existing 40 pin DIL FPGA boards to develop an alternative CPC processor adding performance and new features to the CPC while remaining fully Z80 compatible.
